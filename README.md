@@ -1,5 +1,5 @@
 ### Hi there,I'm zhoubichuan! 👋
-<img src="https://github-readme-stats-beryl.vercel.app/api?username=zhoubichuan&show_icons=true&bg_color=1E9600,FFF200,4BC0C8&theme=graywhite" />
+<img src="https://github-readme-stats.vercel.app/api?username=zhoubichuan&show_icons=true" alt="logo" />
 <!--
 **zhoubichuan/zhoubichuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
